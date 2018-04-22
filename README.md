@@ -2,7 +2,7 @@
 
 A JavaScript Toy Robot Simulator which can take commands in .txt file and execute them. The Robot can execute the below commands
 
-- **PLACE X, Y, DIRECTION (PLACE 0,0,NORTH):** Place the robot on the table.
+- **PLACE X, Y, F (PLACE 0,0,NORTH):** Place the robot on the table.
 - **MOVE:** Move the robot one unit in the direction it is facing
 - **LEFT:** Turn the robot left
 - **RIGHT:** Turn the robot right
